@@ -1,0 +1,6 @@
+title;description;
+Criar projeto;Criar e inicializar o projeto de uma API em NodeJS;
+Fazer um CRUD;Fazer um CRUD para tarefas;
+Importar CSV;Importar um CSV para criar tarefas;
+Validar dados;Validar dados de título e descrição;
+Completar tarefa;Criar um endpoint para marcar a tarefa como completa;
